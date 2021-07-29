@@ -47,3 +47,17 @@ body{
 }
 
 /* feature bike ends from here */
+
+/* client section starts from here */
+.filled-icon{
+    color:  #E77C40;
+    font-size: 14px;
+  }
+
+  .empty-icon{
+    color: #E77C40;
+    font-size: 14px;
+  }
+  /* client section ends from here */
+
+  
