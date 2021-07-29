@@ -1,0 +1,49 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Poppins:wght@300;500;600&display=swap');
+
+
+/* common style starts from here */
+body{
+    /* font-family: 'Inter', sans-serif; */
+    font-family: 'Poppins', sans-serif;
+}
+
+.section-title h2{
+    font-size: 48px;
+    font-weight: 600;
+}
+
+.hr-line{
+    width: 55px;
+    border: 1px solid #E76F51;
+    margin: auto;
+}
+
+/* common style ends from here */
+
+/* top hero starts from here */
+#top-hero{
+    background-color: #264653;
+    padding: 55px 10px;
+}
+
+.hero-details{
+    color: white;
+}
+
+.hero-details h1{
+    font-size: 48px;
+    font-weight: 600;
+}
+
+.purchase-btn{
+    background-color: #E76F51;
+}
+/* top hero ends from here */
+
+/* feature bike starts from here */
+.grayscale {
+    filter: grayscale(100%);
+}
+
+/* feature bike ends from here */
